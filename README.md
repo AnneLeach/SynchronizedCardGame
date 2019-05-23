@@ -7,6 +7,7 @@ The results of each round is printed to the screen.  "sampleRuns.txt" provides e
 
 ## How to Run
 The -std=c99 flag may not be necessary for all environments, but was required to run on TXSTATE's eros server (which the grader used).  The integer value is to plant the seed for randomization.
+		
 		gcc prj_2.c -o prj_2 -lpthread -std=c99
 		./prj_2 8
 
