@@ -1,6 +1,4 @@
-> NOTE
-
-	It is unknown if the sample runs were supposed to include the screen print or the log file.  I assumed that a grader wouldn't want to read through the hundreds of lines of 5 log file results, and therefore included the screen prints.
+These are sample runs of what is printed to the screen, each with respective seeds for randomization.
 
 > RUN 1
 > SEED 3
